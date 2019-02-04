@@ -1,0 +1,24 @@
+p{
+	color: #CC0000;
+}
+
+body {
+	background-color: #FFEBC1;
+	text-align: center;
+	width: 600px;
+ 	margin: 0 auto;
+ 	padding: 0 20px 20px 20px;
+ 	border: 5px solid black;
+}
+
+}
+html {
+  font-size: 20px; 
+  font-family: 'Open Sans', sans-serif; 
+}
+
+img {
+  display: block;
+  margin: 0 auto;
+  width: 400px;
+}
